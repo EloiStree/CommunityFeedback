@@ -1,6 +1,6 @@
 # Community Feedback
 
-Want to asks me questions about one of my project. Sent it here:  
+You want to asks me a question(s) about one of my project. Sent it here:  
 https://github.com/EloiStree/CommunityFeedback/issues  
 
 I am generaly a gently and friend guy and like to help people.  
